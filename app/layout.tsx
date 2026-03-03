@@ -10,8 +10,8 @@ const _jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Agent Msg - Inter-Agent Message',
-  description: 'Message passing system for AI coding agents. Enables Claude Code, Open Code, Codex, and OpenClaw to message without copy-pasting between CLI sessions.',
+  title: 'Agent Msg - Let them talk',
+  description: 'Messaging system for AI coding agents. Enables Claude Code, Open Code, Codex, and OpenClaw to message without copy-pasting between CLI sessions.',
   icons: {
     icon: [
       {
